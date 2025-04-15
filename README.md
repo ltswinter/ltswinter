@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Sal 👋
 
-<!--
-**ltswinter/ltswinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science junior passionate about solving problems and building useful tools.
 
-Here are some ideas to get you started:
+Currently learning, growing, and creating projects to sharpen my skills and help others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech I'm Working With:
+- Python | C++ | Swift | C#
+- Data Structures & Algorithms
+- CLI Tools & API Development
+- Systems Programming Basics
+- SQL & Databases
+
+---
+
+## 📌 Current Projects:
+- Learning full-stack development
+- Strengthening problem-solving with Leetcode
+
+---
+
+## 🌱 Goals for 2025:
+- Build projects people can use
+- Improve systems design & backend knowledge
+- Contribute to Open Source
+
+---
+
+## 📫 How to Reach Me:
+- GitHub: [ltswinter](https://github.com/ltswinter)
